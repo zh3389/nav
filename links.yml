@@ -203,16 +203,16 @@ categories:
         description: 电脑壁纸网站 插画
 
   - category: 开发资源
-  icon: linecons-doc
-  links:
-    - title: discoart
-      logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-      url: https://github.com/jina-ai/discoart
-      description: 自动绘画AI
-    - title: 酷瓜云课堂
-      logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-      url: https://koogua.com
-      description: 在线教育平台
+    icon: linecons-doc
+    links:
+      - title: discoart
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/jina-ai/discoart
+        description: 自动绘画AI
+      - title: 酷瓜云课堂
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://koogua.com
+        description: 在线教育平台
 
   - category: 待添加
     icon: linecons-doc
