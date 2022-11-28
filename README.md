@@ -1,7 +1,5 @@
 # 网址导航（静态页面通用模板）
 
-<https://geneasy.github.io/nav/>
-
 这是一个通用的网址导航模板，任何类型的网站都可以拿去使用。
 
 此网址导航页面是使用 [GenEasy](https://github.com/geneasy/geneasy) 文档生成工具 + [WebStack](https://github.com/WebStackPage/WebStackPage.github.io) 模板创建的静态页面，托管在 GitHub Pages 服务器上面。
@@ -184,28 +182,6 @@ location /daohang/ {
 }
 ```
 
-### Tip: 有其他模板或样式吗？
-
-后续会添加，也非常欢迎你来贡献。
-
-## 需要帮助？
-
-如果遇到问题，需要帮助，请添加 [issue](https://github.com/geneasy/nav/issues)。
-
-## Related
-
-- [geneasy](https://github.com/geneasy/geneasy) - A command line tool that can easily generate HTML, Markdown documents, etc.
-- [geneasy-links](https://github.com/geneasy/links) - 友情链接模板 - 这是一个通用的友情链接模板，任何类型的网站都可以拿去使用。
-- [webstack](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️ 静态响应式网址导航网站 - webstack.cc
-
 ## License
 
 Copyright (c) 2021 [Pipecraft][my-url]. Licensed under the [MIT license][license-url].
-
-## >\_
-
-[![Pipecraft](https://img.shields.io/badge/https://-pipecraft.net-brightgreen)](https://www.pipecraft.net)
-[![PZWD](https://img.shields.io/badge/https://-pzwd.net-brightgreen)](https://pzwd.net)
-
-[my-url]: https://www.pipecraft.net
-[license-url]: LICENSE
