@@ -3,7 +3,7 @@
 ## 网址导航页面配置
 ################
 # 网站标题
-title: 网址导航
+title: 工具导航
 # 网站 LOGO（可选）
 # logo: https://webstack.cc/assets/images/logo@2x.png
 # 网址导航页面关键字（可选）
@@ -17,15 +17,15 @@ shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
 # 社交分享图片（可选）
 og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
 # 主页 URL
-home_url: https://zh3389.github.io/nav/
+# home_url: https://zh3389.github.io/nav/
 # GitHub 链接（可选）
-github_url: https://zh3389.github.io/nav/
+# github_url: https://zh3389.github.io/nav/
 # 网站 about 链接（可选）
-about_url: https://zh3389.github.io/nav/
+# about_url: https://zh3389.github.io/nav/
 # 提交链接的 URL
-link_submission_url: https://github.com/zh3389/nav/issues
+# link_submission_url: https://github.com/zh3389/nav/issues
 # 网站友情链接（可选）
-friendship_links_url: https://zh3389.github.io/links/
+# friendship_links_url: https://zh3389.github.io/links/
 # Google Analytics Code（可选）
 # ga_tracking_code_id: G-ABCDEFG
 
@@ -46,135 +46,120 @@ categories:
     icon: linecons-star
     links:
       - title: 在线Photoshop
-        logo: https://www.photopea.com/promo/icon512.png
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">PS</text></svg>
         url: https://www.photopea.com
         description: 免费的在线图像编辑器，支持 PSD、 XCF、Sketch、XD、CDR 等格式 (Adobe Photoshop， GIMP， Sketch App， Adobe XD， CoreIDRAW)。
-        tags: 图像处理,图像设计,工具,在线,PS
       - title: draw.io
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">画图</text></svg>
         url: https://www.draw.io
         description: 将您的存储空间带到我们的在线工具中，或使用桌面应用程序最大限度地保护隐私。
-        tags: 图像处理,图像设计,工具,在线,创意
       - title: 在线图表绘制
-        logo: https://echarts.apache.org/zh/images/logo.png
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">图表</text></svg>
         url: https://echarts.apache.org/examples
         description: 一个基于 JavaScript 的开源可视化图表库
-        tags: 工具,在线,创意,可视化,图表
       - title: Squoosh
-        logo: data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D…opacity%3D%22.3%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E%0A
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">压缩</text></svg>
         url: https://squoosh.app
         description: 在浏览器中用不同的编解码器压缩和比较图像(Google出品)
-        tags: 图像处理,图像设计,工具,在线,图像压缩
       - title: magiceraser
-        logo: https://magicstudio.com/_next/static/media/me-logo.c199a564.svg
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">抠图</text></svg>
         url: https://www.magiceraser.io
         description: 在几秒钟内删除不需要的东西  上传，标记您需要删除的位置，下载  免费使用。无需注册！
-        tags: 图像处理,工具,在线
       - title: vectormagic
-        logo: data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D…opacity%3D%22.3%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E%0A
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">像素</text></svg>
         url: https://zh.vectormagic.com
         description: 轻轻松松 把 JPG、PNG、GIF 文件 转换成 PDF、SVG、EPS 矢量图像 通过世界上最佳全彩自动描摹器，迅速地使您的艺术品做好打印、修饰、剪切等操作的准备！
-        tags: 图像处理,工具,在线
       - title: ANIMATED DRAWINGS
-        logo: data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D…opacity%3D%22.3%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E%0A
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">动画</text></svg>
         url: https://sketch.metademolab.com
         description: 通过动画角色四处移动，让孩子们的图画栩栩如生！
-        tags: 图像处理,工具,在线,CGI
       - title: TinyPNG
-        logo: data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D…opacity%3D%22.3%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E%0A
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">压缩</text></svg>
         url: https://tinypng.com
         description: 智能PNG和JPEG压缩，以质量和文件大小的完美平衡来优化您的图像
-        tags: 图像处理,图像设计,工具,在线,图像压缩
       - title: DeepAAonWeb
-        logo: data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D…opacity%3D%22.3%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E%0A
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">转换</text></svg>
         url: https://tar-bin.github.io/DeepAAonWeb
         description: 在线图像转文本
-        tags: 图像处理,图像设计,工具,在线
       - title: Bigjpg
-        logo: data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D…opacity%3D%22.3%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E%0A
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">放大</text></svg>
         url: https://bigjpg.com
         description: AI人工智能图片放大  Bigjpg - 使用开源waifu2x人工智能深度卷积神经网络（CNN）智能无损免费放大图片
-        tags: 图像处理,图像设计,工具,在线
       - title: icomoon
-        logo: data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D…opacity%3D%22.3%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E%0A
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">ico</text></svg>
         url: https://icomoon.io/app
         description: 在线icon编辑
-        tags: 图像处理,图像设计,工具,在线
       - title: Canva
-        logo: data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D…opacity%3D%22.3%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E%0A
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">画图</text></svg>
         url: https://www.canva.cn
         description: 在线做图软件
-        tags: 图像处理,图像设计,工具,在线
       - title: AI绘画
-        logo: data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D…opacity%3D%22.3%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E%0A
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">生成</text></svg>
         url: https://creator.nightcafe.studio
         description: 内容图像生成
-        tags: 图像处理,图像设计,工具,在线
       - title: remove.bg
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">抠图</text></svg>
         url: https://www.remove.bg/zh
         description: 图片背景消除100% 全自动且免费
       - title: 临时邮箱
-        logo: data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D…opacity%3D%22.3%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E%0A
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">匿名</text></svg>
         url: https://www.linshiyouxiang.net/
         description: 临时邮箱 10分钟邮箱，临时邮箱，临时邮，临时电子邮箱，24小时邮箱，一次性邮箱，匿名邮箱，安全邮箱
-        tags: 工具,在线,匿名
       - title: 虚拟电话号码
-        logo: data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D…opacity%3D%22.3%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E%0A
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">匿名</text></svg>
         url: https://jiemahao.com
         description: 在线虚拟电话号码
-        tags: 工具,在线,匿名
 
   - category: 资源网站
     hide_menu: false
     icon: linecons-star
     links:
       - title: 免费字体
-        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">字体</text></svg>
         url: https://www.wfonts.com
         description: 下载免费字体 最好的网站下载免费字体
       - title: fontspace
-        logo: https://fontspace.imgix.net/static/fontspace-logo-white-text.svg
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">字体</text></svg>
         url: https://www.fontspace.com
         description: 100,000 多种免费字体免费下载合法许可的字体，非常适合您的设计项目。
       - title: 漫猫动漫BT下载
-        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">动漫</text></svg>
         url: http://www.comicat.org
         description: 漫猫字幕组官方BT分享站，动画～漫画～游戏～动漫音乐～片源（RAW）等资源BT下载
       - title: 微元素E3D
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">CG</text></svg>
         url: https://www.element3ds.com
         description: 微元素,游戏资源下载,游戏原画,手机游戏资源,游戏开发资源
       - title: 帝之冰魂
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">动漫</text></svg>
         url: https://www.dzbhdm.net
         description: 帝之冰魂动漫资源小站官网
       - title: fontello
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">ico</text></svg>
         url: https://fontello.com
         description: 个人免费的icon
       - title: iconfont
-        logo: https://img.alicdn.com/imgextra/i2/O1CN01FF1t1g1Q3PDWpSm4b_!!6000000001920-55-tps-508-135.svg
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">ico</text></svg>
         url: https://www.iconfont.cn
         description: 个人免费的icon 阿里
       - title: stickpng
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">png</text></svg>
         url: http://www.stickpng.com/
         description: 个人免费PNG
       - title: pixabay
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">pixabay</text></svg>
         url: https://pixabay.com/zh/
         description: 免费正版高清图片素材库 Pixabay拥有超过2.7百万张优质图片和视频素材，让你轻松应对各种设计场景
       - title: unsplash
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">unsplash</text></svg>
         url: https://unsplash.com
         description: 互联网的视觉资源。由各地的创作者提供支持。
       - title: mixkit.co
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">视频</text></svg>
         url: https://mixkit.co
         description: 为您的下一个视频项目提供免费资源
       - title: crazygames
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">游戏</text></svg>
         url: https://www.crazygames.com
         description: 在线游戏网站
 
@@ -182,23 +167,23 @@ categories:
     icon: linecons-doc
     links:
       - title: 元气壁纸
-        logo: https://bizhi.cheetahfun.com/_nuxt/img/logo.e11da26.png
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">壁纸</text></svg>
         url: https://bizhi.cheetahfun.com/
         description: 电脑壁纸网站
       - title: wallhaven
-        logo: https://wallhaven.cc/images/layout/logo.png
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">壁纸</text></svg>
         url: https://wallhaven.cc/
         description: 电脑壁纸网站
       - title: 写真
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">壁纸</text></svg>
         url: https://www.jpmn5.cc
         description: 电脑壁纸网站
       - title: fanbox
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">插画</text></svg>
         url: https://www.fanbox.cc
         description: 电脑壁纸网站 插画
       - title: pixiv
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">插画</text></svg>
         url: https://www.pixiv.net/
         description: 电脑壁纸网站 插画
 
@@ -206,11 +191,11 @@ categories:
     icon: linecons-doc
     links:
       - title: discoart
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">AI</text></svg>
         url: https://github.com/jina-ai/discoart
         description: 自动绘画AI
       - title: 酷瓜云课堂
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">平台</text></svg>
         url: https://koogua.com
         description: 在线教育平台
 
