@@ -33,8 +33,8 @@ og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
 ## 导航栏
 ################
 navigation_urls:
-  - title: 常用
-    url: page1/
+  - title: 万有导航
+    url: https://wanyouw.com
   - title: 在线工具箱
     url: https://tool.lu
 
@@ -134,6 +134,34 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">动漫</text></svg>
         url: https://www.dzbhdm.net
         description: 帝之冰魂动漫资源小站官网
+      - title: crazygames
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">游戏</text></svg>
+        url: https://www.crazygames.com
+        description: 在线游戏网站
+
+  - category: 商用图库视频
+    icon: linecons-doc
+    links:
+      - title: pixabay
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">img</text></svg>
+        url: https://pixabay.com/zh/
+        description: 免费正版高清图片素材库 Pixabay拥有超过2.7百万张优质图片和视频素材，让你轻松应对各种设计场景
+      - title: unsplash
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">img</text></svg>
+        url: https://unsplash.com
+        description: 互联网的视觉资源。由各地的创作者提供支持。
+      - title: pexels
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">img</text></svg>
+        url: https://www.pexels.com/zh-cn
+        description: 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频。
+      - title: stocksnap
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">img</text></svg>
+        url: https://stocksnap.io
+        description: 美丽的免费图片。
+      - title: lifeofpix
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">img</text></svg>
+        url: https://www.lifeofpix.com
+        description: 免费高分辨率摄影。
       - title: fontello
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">ico</text></svg>
         url: https://fontello.com
@@ -146,22 +174,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">png</text></svg>
         url: http://www.stickpng.com/
         description: 个人免费PNG
-      - title: pixabay
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">pixabay</text></svg>
-        url: https://pixabay.com/zh/
-        description: 免费正版高清图片素材库 Pixabay拥有超过2.7百万张优质图片和视频素材，让你轻松应对各种设计场景
-      - title: unsplash
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">unsplash</text></svg>
-        url: https://unsplash.com
-        description: 互联网的视觉资源。由各地的创作者提供支持。
       - title: mixkit.co
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">视频</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">video</text></svg>
         url: https://mixkit.co
         description: 为您的下一个视频项目提供免费资源
-      - title: crazygames
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">游戏</text></svg>
-        url: https://www.crazygames.com
-        description: 在线游戏网站
 
   - category: 图片资源
     icon: linecons-doc
