@@ -37,6 +37,8 @@ navigation_urls:
     url: https://wanyouw.com
   - title: 在线工具箱
     url: https://tool.lu
+  - title: 译学馆
+    url: https://www.yxgapp.com
 
 ################
 ## 网址导航数据
@@ -53,10 +55,6 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">画图</text></svg>
         url: https://www.draw.io
         description: 将您的存储空间带到我们的在线工具中，或使用桌面应用程序最大限度地保护隐私。
-      - title: 在线图表绘制
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">图表</text></svg>
-        url: https://echarts.apache.org/examples
-        description: 一个基于 JavaScript 的开源可视化图表库
       - title: Squoosh
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">压缩</text></svg>
         url: https://squoosh.app
@@ -65,6 +63,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">抠图</text></svg>
         url: https://www.magiceraser.io
         description: 在几秒钟内删除不需要的东西  上传，标记您需要删除的位置，下载  免费使用。无需注册！
+      - title: convertio
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">转换</text></svg>
+        url: https://convertio.co/zh
+        description: 文件转换器 将您的文件转换成任意格式
       - title: vectormagic
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">像素</text></svg>
         url: https://zh.vectormagic.com
@@ -97,6 +99,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">生成</text></svg>
         url: https://creator.nightcafe.studio
         description: 内容图像生成
+      - title: AI绘画
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">生成</text></svg>
+        url: https://yige.baidu.com
+        description: 文心一格 百度 内容图像生成
       - title: remove.bg
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">抠图</text></svg>
         url: https://www.remove.bg/zh
@@ -109,35 +115,6 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">匿名</text></svg>
         url: https://jiemahao.com
         description: 在线虚拟电话号码
-
-  - category: 资源网站
-    hide_menu: false
-    icon: linecons-star
-    links:
-      - title: 免费字体
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">字体</text></svg>
-        url: https://www.wfonts.com
-        description: 下载免费字体 最好的网站下载免费字体
-      - title: fontspace
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">字体</text></svg>
-        url: https://www.fontspace.com
-        description: 100,000 多种免费字体免费下载合法许可的字体，非常适合您的设计项目。
-      - title: 漫猫动漫BT下载
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">动漫</text></svg>
-        url: http://www.comicat.org
-        description: 漫猫字幕组官方BT分享站，动画～漫画～游戏～动漫音乐～片源（RAW）等资源BT下载
-      - title: 微元素E3D
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">CG</text></svg>
-        url: https://www.element3ds.com
-        description: 微元素,游戏资源下载,游戏原画,手机游戏资源,游戏开发资源
-      - title: 帝之冰魂
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">动漫</text></svg>
-        url: https://www.dzbhdm.net
-        description: 帝之冰魂动漫资源小站官网
-      - title: crazygames
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">游戏</text></svg>
-        url: https://www.crazygames.com
-        description: 在线游戏网站
 
   - category: 商用图库视频
     icon: linecons-doc
@@ -157,6 +134,10 @@ categories:
       - title: stocksnap
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">img</text></svg>
         url: https://stocksnap.io
+        description: 美丽的免费图片。
+      - title: isorepublic
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">img</text></svg>
+        url: https://isorepublic.com
         description: 美丽的免费图片。
       - title: lifeofpix
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">img</text></svg>
@@ -178,6 +159,54 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">video</text></svg>
         url: https://mixkit.co
         description: 为您的下一个视频项目提供免费资源
+
+  - category: 商用背景音乐
+    icon: linecons-doc
+    links:
+      - title: freemusicarchive
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">music</text></svg>
+        url: https://freemusicarchive.org
+        description: 免版税音乐。可安全地用于各种媒体，如 YouTube、Facebook 和播客剧集。
+      - title: FUGUE
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">music</text></svg>
+        url: https://igoutu.cn/music
+        description: 用于视频的免版税音乐。 远比其他市场更具选择性，比Hans Zimmer要便宜得多。事实上，对于非商业用途，我们的音乐是完全免费的。
+      - title: freeplaymusic
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">music</text></svg>
+        url: https://freeplaymusic.com
+        description: ***声音从这里开始
+      - title: imslp
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">music</text></svg>
+        url: https://cn.imslp.org
+        description: 全球最大的免费公共版权音乐网站
+      - title: Scorser
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">music</text></svg>
+        url: http://zh.scorser.com
+        description: 音乐家搜索系统
+      - title: 站长素材音效
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">music</text></svg>
+        url: https://sc.chinaz.com/yinxiao
+        description: 站长素材
+      - title: 爱给网
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">music</text></svg>
+        url: https://www.aigei.com
+        description: 专注免费素材
+      - title: 100AUDIO
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">music</text></svg>
+        url: https://100audio.com
+        description: 100AUDIO音乐授权 有保障的版权音乐
+        
+  - category: 数据可视化
+    icon: linecons-doc
+    links:      
+      - title: 在线图表绘制
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">图表</text></svg>
+        url: https://echarts.apache.org/examples
+        description: 一个基于 JavaScript 的开源可视化图表库
+      - title: 光启元
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">3D</text></svg>
+        url: https://web.raykite.com
+        description: 全新的三维数据演示工具，引领数据内容创作与演示的全新升级
 
   - category: 图片资源
     icon: linecons-doc
@@ -210,10 +239,43 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">AI</text></svg>
         url: https://github.com/jina-ai/discoart
         description: 自动绘画AI
+      - title: Sketch2Pose
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">AI</text></svg>
+        url: https://github.com/kbrodt/sketch2pose
+        description: 从位图草图估计3D角色姿势
       - title: 酷瓜云课堂
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">平台</text></svg>
         url: https://koogua.com
         description: 在线教育平台
+
+  - category: 其它资源
+    hide_menu: false
+    icon: linecons-star
+    links:
+      - title: 免费字体
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">字体</text></svg>
+        url: https://www.wfonts.com
+        description: 下载免费字体 最好的网站下载免费字体
+      - title: fontspace
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">字体</text></svg>
+        url: https://www.fontspace.com
+        description: 100,000 多种免费字体免费下载合法许可的字体，非常适合您的设计项目。
+      - title: 漫猫动漫BT下载
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">动漫</text></svg>
+        url: http://www.comicat.org
+        description: 漫猫字幕组官方BT分享站，动画～漫画～游戏～动漫音乐～片源（RAW）等资源BT下载
+      - title: 微元素E3D
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">CG</text></svg>
+        url: https://www.element3ds.com
+        description: 微元素,游戏资源下载,游戏原画,手机游戏资源,游戏开发资源
+      - title: 帝之冰魂
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">动漫</text></svg>
+        url: https://www.dzbhdm.net
+        description: 帝之冰魂动漫资源小站官网
+      - title: crazygames
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">游戏</text></svg>
+        url: https://www.crazygames.com
+        description: 在线游戏网站
 
   - category: 待添加
     icon: linecons-doc
