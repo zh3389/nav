@@ -234,7 +234,7 @@ categories:
       - title: freeplaymusic
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">music</text></svg>
         url: https://freeplaymusic.com
-        description: ***声音从这里开始
+        description: 某某声音从这里开始
       - title: imslp
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">music</text></svg>
         url: https://cn.imslp.org
