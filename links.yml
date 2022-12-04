@@ -37,8 +37,8 @@ navigation_urls:
     url: https://tool.lu
   - title: 译学馆
     url: https://www.yxgapp.com
-  - title: 
-    url: 
+  - title: 编程速查表
+    url: https://quickref.me
 
 ################
 ## 网址导航数据
@@ -51,6 +51,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">综合</text></svg>
         url: https://wanyouw.com
         description: 万有在手,天下我有.
+      - title: 爱分享吧
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">综合</text></svg>
+        url: https://www.ifx8.com
+        description: 综合性导航网站
       - title: 设计百宝箱
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">设计</text></svg>
         url: http://www.shejibox.cn
@@ -143,6 +147,14 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">写作</text></svg>
         url: https://www.yizhuan5.com
         description: 让创作更高效
+      - title: 写作猫
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">写作</text></svg>
+        url: https://xiezuocat.com
+        description: 集AI写作、多人协作、文本校对、改写润色、自动配图等功能为一体AI Native内容创作平台
+      - title: 早标网
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">换词</text></svg>
+        url: https://www.zaobiao.net
+        description: 早标网，降重不限字数！ 今日论文今日改，莫待明日空着急，不要让改论文阻碍毕业的步伐。
       - title: 句子控
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">写作</text></svg>
         url: https://www.juzikong.com
@@ -332,6 +344,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">动漫</text></svg>
         url: https://www.dzbhdm.net
         description: 帝之冰魂动漫资源小站官网
+      - title: GBT乐赏游戏
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">游戏</text></svg>
+        url: http://www.gbtgame.ysepan.com
+        description: GBT乐赏游戏空间 游戏下载资源站
       - title: crazygames
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">游戏</text></svg>
         url: https://www.crazygames.com
