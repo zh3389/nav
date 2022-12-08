@@ -33,12 +33,18 @@ og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
 ## 导航栏
 ################
 navigation_urls:
+  - title: 万事百科
+    url: https://zh.wikihow.com
   - title: 在线工具箱
     url: https://tool.lu
   - title: 译学馆
     url: https://www.yxgapp.com
   - title: 编程速查表
     url: https://quickref.me
+  - title: 资源下载
+    url: https://axutongxue.com
+  - title: 全球最大的资源网站
+    url: http://rutracker.org
 
 ################
 ## 网址导航数据
@@ -51,6 +57,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">综合</text></svg>
         url: https://wanyouw.com
         description: 万有在手,天下我有.
+      - title: 24k导航
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">综合</text></svg>
+        url: https://www.24kdh.com
+        description: 综合导航网站
       - title: 爱分享吧
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">综合</text></svg>
         url: https://www.ifx8.com
@@ -155,6 +165,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">换词</text></svg>
         url: https://www.zaobiao.net
         description: 早标网，降重不限字数！ 今日论文今日改，莫待明日空着急，不要让改论文阻碍毕业的步伐。
+      - title: 人声分离
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">音频</text></svg>
+        url: https://vocalremover.org
+        description: 使用强大的 AI 算法免费将歌曲中的声音与音乐分离
       - title: 句子控
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">写作</text></svg>
         url: https://www.juzikong.com
@@ -323,7 +337,11 @@ categories:
   - category: 其它资源
     hide_menu: false
     icon: linecons-star
-    links:
+    links:      
+      - title: 大力盘
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">查找</text></svg>
+        url: https://www.dalipan.com
+        description: 网盘资源搜索
       - title: 免费字体
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">字体</text></svg>
         url: https://www.wfonts.com
