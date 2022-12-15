@@ -193,6 +193,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">匿名</text></svg>
         url: https://jiemahao.com
         description: 在线虚拟电话号码
+      - title: 收费接码平台
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">接码</text></svg>
+        url: https://sms-activate.org/cn
+        description: 便宜的虚拟电话号码
 
   - category: 商用图库视频
     icon: linecons-doc
