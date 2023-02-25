@@ -52,6 +52,22 @@ navigation_urls:
 ## 网址导航数据
 ################
 categories:  
+  - category: ChatGPT资料
+    icon: linecons-doc
+    links:
+      - title: OpenAI ChatGPT
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
+        url: https://ai.com
+        description: ChatGPT
+      - title: ChatGPT指令大全
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">待添加</text></svg>
+        url: https://www.explainthis.io/zh-hans/chatgpt
+        description: ChatGPT使用指令
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">待添加</text></svg>
+        url: https://github.com/zh3389/nav/issues
+        description: 快来提交你的网站吧
+
   - category: 综合导航网站
     icon: linecons-doc
     links:
