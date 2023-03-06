@@ -159,6 +159,10 @@ categories:
   - category: 实用工具网站
     icon: linecons-star
     links:
+      - title: PDF工具箱
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PS</text></svg>
+        url: https://tools.pdf24.org/zh
+        description: 精心裁剪的针对特定问题的工具。下面是所有的PDF工具。
       - title: 在线Photoshop
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PS</text></svg>
         url: https://www.photopea.com
