@@ -462,7 +462,15 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">救援</text></svg>
         url: http://139.186.136.53:1557/login
         description: 高新消防救援大队智慧消防系统
-
+      - title: 飞书
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">飞书</text></svg>
+        url: https://www.feishu.cn/
+        description: 飞书协同文档
+      - title: 腾讯云开发
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">云开发</text></svg>
+        url: https://console.cloud.tencent.com/
+        description: 腾讯云开发
+        
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">待添加</text></svg>
         url: https://github.com/zh3389/nav/issues
