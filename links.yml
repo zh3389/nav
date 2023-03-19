@@ -69,10 +69,15 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">bing</text></svg>
         url: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx
         description: ChatGPT使用指令
+      - title: 美区信用卡
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">信用卡</text></svg>
+        url: https://nobepay.com/
+        description: 美区信用卡
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">待添加</text></svg>
         url: https://github.com/zh3389/nav/issues
         description: 快来提交你的网站吧
+      
 
   - category: 综合导航网站
     icon: linecons-doc
