@@ -386,7 +386,11 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">平台</text></svg>
         url: https://koogua.com
         description: 在线教育平台
-
+      - title: 自动写代码
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">工具</text></svg>
+        url: https://www.cursor.so/
+        description: 自动写代码
+        
   - category: 其它资源
     hide_menu: false
     icon: linecons-star
