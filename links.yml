@@ -458,6 +458,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">硬件</text></svg>
         url: https://x.jlc.com
         description: 好玩的硬件交流社区
+      - title: 不用手机号的邮箱
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">邮箱</text></svg>
+        url: https://mail.proton.me/
+        description: 国外不用手机号的邮箱注册
 
   - category: 工作
     icon: linecons-doc
