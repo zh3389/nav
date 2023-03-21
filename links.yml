@@ -82,7 +82,6 @@ categories:
         url: https://github.com/zh3389/nav/issues
         description: 快来提交你的网站吧
       
-
   - category: 综合导航网站
     icon: linecons-doc
     links:
@@ -126,6 +125,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
         url: https://ai.tboxn.com/
         description: AI导航
+      - title: AI帮个忙
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">工具</text></svg>
+        url: https://aitools.run/
+        description: AI文字工具
       - title: ANIMATED DRAWINGS
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">动画</text></svg>
         url: https://sketch.metademolab.com
