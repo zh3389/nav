@@ -470,34 +470,10 @@ categories:
   - category: 工作
     icon: linecons-doc
     links:
-      - title: 消智云商
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">商城</text></svg>
-        url: https://shop.diweiyunlian.cn/pc/index.html
-        description: 物联网消防产品在线商城
-      - title: 消智云商系统后台
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">后台</text></svg>
-        url: https://shop.diweiyunlian.cn/pcenter/index.html
-        description: 物联网消防产品在线商城管理后台
-      - title: 消智云商商家后台
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">后台</text></svg>
-        url: https://shop.diweiyunlian.cn/bcenter/index.html
-        description: 物联网消防产品在线商户管理后台
-      - title: 消智云
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">厂家</text></svg>
-        url: https://iot.diweiyunlian.cn:1443/#/login
-        description: 用于给厂家提供比价 销售 监控产品的情况
-      - title: 监控报警系统
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">监管</text></svg>
-        url: http://203.34.92.176:1123/#/login
-        description: 新都区空巢独居老年人家庭报警系统
-      - title: 监控报警系统
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">监管</text></svg>
-        url: http://139.186.136.53:1549/wuhou/login
-        description: 迪威云联智慧消防系统
-      - title: 救援大队系统
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">救援</text></svg>
-        url: http://139.186.136.53:1557/login
-        description: 高新消防救援大队智慧消防系统
+      - title: 智慧消防
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">消防</text></svg>
+        url: http://139.186.136.53:2548/#/displayProjectHome
+        description: 智慧消防系统综合
       - title: 飞书
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">飞书</text></svg>
         url: https://www.feishu.cn/
