@@ -137,6 +137,14 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">动画</text></svg>
         url: https://sketch.metademolab.com
         description: 通过动画角色四处移动，让孩子们的图画栩栩如生！
+      - title: discoart
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">AI</text></svg>
+        url: https://github.com/jina-ai/discoart
+        description: 自动绘画AI
+      - title: Sketch2Pose
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">AI</text></svg>
+        url: https://github.com/kbrodt/sketch2pose
+        description: 从位图草图估计3D角色姿势
       - title: DeepAAonWeb
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">转换</text></svg>
         url: https://tar-bin.github.io/DeepAAonWeb
@@ -397,14 +405,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Serve</text></svg>
         url: https://surge.sh
         description: 免费静态服务器
-      - title: discoart
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">AI</text></svg>
-        url: https://github.com/jina-ai/discoart
-        description: 自动绘画AI
-      - title: Sketch2Pose
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">AI</text></svg>
-        url: https://github.com/kbrodt/sketch2pose
-        description: 从位图草图估计3D角色姿势
+      - title: API资源库
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">API</text></svg>
+        url: https://rapidapi.com/hub/
+        description: 欢迎来到 RapidAPI 中心 发现并连接到数以千计的 API
       - title: 酷瓜云课堂
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">平台</text></svg>
         url: https://koogua.com
