@@ -77,6 +77,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PPT</text></svg>
         url: http://www.hippter.com/
         description: PPT资源导航
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">待添加</text></svg>
+        url: https://github.com/zh3389/nav/issues
+        description: 快来提交你的网站吧
         
   - category: 实用AI工具
     icon: linecons-doc
@@ -85,6 +89,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
         url: https://ai.tboxn.com/
         description: AI导航
+      - title: 未来百科
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
+        url: https://www.futurepedia.io/
+        description: 最大的 AI 工具目录，每日更新
       - title: 一起用AI
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
         url: https://17yongai.com/
