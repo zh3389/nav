@@ -90,9 +90,13 @@ navigation_urls:
         url: https://17yongai.com/
         description: AI导航
       - title: AI帮个忙
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">工具</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">文字</text></svg>
         url: https://aitools.run/
         description: AI文字工具
+      - title: PPT AI
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PPT</text></svg>
+        url: https://tome.app/
+        description: 一键生成PPT
       - title: OpenAI ChatGPT
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
         url: https://ai.com
