@@ -52,58 +52,18 @@ navigation_urls:
 
 ################
 ## 网址导航数据
-################
-categories:  
-  - category: ChatGPT资料
-    icon: linecons-doc
-    links:
-      - title: OpenAI ChatGPT
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://ai.com
-        description: ChatGPT
-      - title: ChatGPT镜像站
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://chat.forchange.cn/
-        description: ChatGPT
-      - title: Google Bard
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://bard.google.com/
-        description: Google ChatGPT Bard
-      - title: ChatGPT指令大全
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">指令</text></svg>
-        url: https://www.explainthis.io/zh-hans/chatgpt
-        description: ChatGPT使用指令
-      - title: 新bing
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">bing</text></svg>
-        url: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx
-        description: ChatGPT使用指令
-      - title: 美区信用卡
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">信用卡</text></svg>
-        url: https://nobepay.com/
-        description: 美区信用卡
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">待添加</text></svg>
-        url: https://github.com/zh3389/nav/issues
-        description: 快来提交你的网站吧
-      
+################      
   - category: 综合导航网站
     icon: linecons-doc
     links:
-      - title: 万有导航
+      - title: 程序员导航
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">综合</text></svg>
-        url: https://wanyouw.com
-        description: 万有在手,天下我有.
-      - title: 24k导航
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">综合</text></svg>
-        url: https://www.24kdh.com
-        description: 综合导航网站
+        url: http://www.cxy521.com/
+        description: 程序员导航网站
       - title: 爱分享吧
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">综合</text></svg>
         url: https://www.ifx8.com
         description: 综合性导航网站
-      - title: 设计百宝箱
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">设计</text></svg>
-        url: http://www.shejibox.cn
         description: 严选设计导航
       - title: seeseed
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">设计</text></svg>
@@ -117,10 +77,6 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PPT</text></svg>
         url: http://www.hippter.com/
         description: PPT资源导航
-      - title: ooopn
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Tool</text></svg>
-        url: https://www.ooopn.com/
-        description: 小白工具箱
         
   - category: 实用AI工具
     icon: linecons-doc
@@ -129,10 +85,38 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
         url: https://ai.tboxn.com/
         description: AI导航
+      - title: 一起用AI
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
+        url: https://17yongai.com/
+        description: AI导航
       - title: AI帮个忙
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">工具</text></svg>
         url: https://aitools.run/
         description: AI文字工具
+      - title: OpenAI ChatGPT
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
+        url: https://ai.com
+        description: ChatGPT
+      - title: Google Bard
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
+        url: https://bard.google.com/
+        description: Google ChatGPT Bard
+      - title: 新bing
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">bing</text></svg>
+        url: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx
+        description: ChatGPT使用指令
+      - title: ChatGPT镜像站
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
+        url: https://chat.forchange.cn/
+        description: ChatGPT
+      - title: ChatGPT指令大全
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">指令</text></svg>
+        url: https://www.explainthis.io/zh-hans/chatgpt
+        description: ChatGPT使用指令
+      - title: 美区信用卡
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">信用卡</text></svg>
+        url: https://nobepay.com/
+        description: 美区信用卡
       - title: ANIMATED DRAWINGS
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">动画</text></svg>
         url: https://sketch.metademolab.com
