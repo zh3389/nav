@@ -85,25 +85,45 @@ categories:
   - category: 实用AI工具
     icon: linecons-doc
     links:
-      - title: AI导航
+      - title: AI导航 allthingsai
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
+        url: https://allthingsai.com/
+        description: AI导航
+      - title: AI导航 ai.tboxn
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
         url: https://ai.tboxn.com/
         description: AI导航
-      - title: 未来百科
+      - title: AI导航 ainavpro
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
-        url: https://www.futurepedia.io/
-        description: 最大的 AI 工具目录，每日更新
-      - title: 一起用AI
+        url: https://www.ainavpro.com/
+        description: AI导航
+      - title: AI导航 aigc
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
+        url: https://aigc.cn/
+        description: AI导航
+      - title: 一起用AI 17yongai
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
         url: https://17yongai.com/
         description: AI导航
-      - title: AI帮个忙
+      - title: AI工具更新 futurepedia
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">推荐</text></svg>
+        url: https://www.futurepedia.io/
+        description: 最大的 AI 工具目录，每日更新
+      - title: AI工具更新 futuretools
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">推荐</text></svg>
+        url: https://www.futuretools.io/
+        description: 最新的AI工具推荐
+      - title: AI帮个忙 aitools
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">文字</text></svg>
         url: https://aitools.run/
         description: AI文字工具
-      - title: PPT AI
+      - title: PPT AI tome
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PPT</text></svg>
         url: https://tome.app/
+        description: 一键生成PPT
+      - title: PPT AI gamma
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PPT</text></svg>
+        url: https://gamma.app/
         description: 一键生成PPT
       - title: OpenAI ChatGPT
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
@@ -116,7 +136,7 @@ categories:
       - title: 新bing
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">bing</text></svg>
         url: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx
-        description: ChatGPT使用指令
+        description: new bing
       - title: ChatGPT镜像站
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
         url: https://chat.forchange.cn/
