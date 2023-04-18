@@ -134,13 +134,17 @@ categories:
         url: https://bard.google.com/
         description: Google ChatGPT Bard
       - title: 新bing
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">bing</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
         url: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx
         description: new bing
-      - title: ChatGPT镜像站
+      - title: 聚合Chat
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Poe</text></svg>
+        url: https://poe.com/
+        description: 感谢您使用 Poe！我们正在构建一个平台，让人们可以提出问题、获得即时答案并与 AI 进行来回对话。
+      - title: Claude
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://chat.forchange.cn/
-        description: ChatGPT
+        url: https://www.anthropic.ai/
+        description: Claude
       - title: ChatGPT指令大全
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">指令</text></svg>
         url: https://www.explainthis.io/zh-hans/chatgpt
