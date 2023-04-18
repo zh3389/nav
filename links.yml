@@ -82,6 +82,46 @@ categories:
         url: https://github.com/zh3389/nav/issues
         description: 快来提交你的网站吧
         
+  - category: ChatTools
+    icon: linecons-doc
+    links:
+      - title: 聚合Chat
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Poe</text></svg>
+        url: https://poe.com/
+        description: 感谢您使用 Poe！我们正在构建一个平台，让人们可以提出问题、获得即时答案并与 AI 进行来回对话。
+      - title: OpenAI ChatGPT
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
+        url: https://ai.com
+        description: ChatGPT
+      - title: Google Bard
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
+        url: https://bard.google.com/
+        description: Google ChatGPT Bard
+      - title: 新bing
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
+        url: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx
+        description: new bing
+      - title: Claude
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
+        url: https://www.anthropic.ai/
+        description: Claude
+      - title: AI帮个忙 aitools
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">文字</text></svg>
+        url: https://aitools.run/
+        description: AI文字工具
+      - title: PPT AI tome
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PPT</text></svg>
+        url: https://tome.app/
+        description: 一键生成PPT
+      - title: PPT AI gamma
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PPT</text></svg>
+        url: https://gamma.app/
+        description: 一键生成PPT
+      - title: ChatGPT指令大全
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">指令</text></svg>
+        url: https://www.explainthis.io/zh-hans/chatgpt
+        description: ChatGPT使用指令
+
   - category: 实用AI工具
     icon: linecons-doc
     links:
@@ -113,42 +153,6 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">推荐</text></svg>
         url: https://www.futuretools.io/
         description: 最新的AI工具推荐
-      - title: AI帮个忙 aitools
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">文字</text></svg>
-        url: https://aitools.run/
-        description: AI文字工具
-      - title: PPT AI tome
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PPT</text></svg>
-        url: https://tome.app/
-        description: 一键生成PPT
-      - title: PPT AI gamma
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PPT</text></svg>
-        url: https://gamma.app/
-        description: 一键生成PPT
-      - title: OpenAI ChatGPT
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://ai.com
-        description: ChatGPT
-      - title: Google Bard
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://bard.google.com/
-        description: Google ChatGPT Bard
-      - title: 新bing
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx
-        description: new bing
-      - title: 聚合Chat
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Poe</text></svg>
-        url: https://poe.com/
-        description: 感谢您使用 Poe！我们正在构建一个平台，让人们可以提出问题、获得即时答案并与 AI 进行来回对话。
-      - title: Claude
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://www.anthropic.ai/
-        description: Claude
-      - title: ChatGPT指令大全
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">指令</text></svg>
-        url: https://www.explainthis.io/zh-hans/chatgpt
-        description: ChatGPT使用指令
       - title: 美区信用卡
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">信用卡</text></svg>
         url: https://nobepay.com/
