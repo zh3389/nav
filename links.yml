@@ -23,7 +23,7 @@ og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
 # 网站 about 链接（可选）
 # about_url: https://zh3389.github.io/nav/
 # 提交链接的 URL
-# link_submission_url: https://github.com/zh3389/nav/issues
+link_submission_url: https://github.com/zh3389/nav/blob/main/links.yml
 # 网站友情链接（可选）
 # friendship_links_url: https://zh3389.github.io/links/
 # Google Analytics Code（可选）
@@ -105,6 +105,14 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
         url: https://www.anthropic.ai/
         description: Claude
+      - title: OpenAssistant
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
+        url: https://open-assistant.io/zh/chat
+        description: OpenAssistant
+      - title: ColossalAI
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
+        url: https://chat.colossalai.org/
+        description: ColossalAI
       - title: AI帮个忙 aitools
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">文字</text></svg>
         url: https://aitools.run/
