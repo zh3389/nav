@@ -526,10 +526,19 @@ categories:
   - category: 工作
     icon: linecons-doc
     links:
-      - title: 智慧消防
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">消防</text></svg>
-        url: http://139.186.136.53:2548/#/displayProjectHome
-        description: 智慧消防系统综合
+      - title: Jira PRD
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Jira</text></svg>
+        url: http://192.168.18.239:8080
+        description: Jira Software
+      - title: SVN
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">SVN</text></svg>
+        url: http://192.168.10.203:3000
+        description: 代码版本管理
+      - title: OA
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">OA</text></svg>
+        url: https://117.176.129.103:9081
+        description: OA网页版
+
       - title: 飞书
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">飞书</text></svg>
         url: https://www.feishu.cn/
