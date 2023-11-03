@@ -33,6 +33,10 @@ link_submission_url: https://github.com/zh3389/nav/blob/main/links.yml
 ## 导航栏
 ################
 navigation_urls:
+  - title: AI在线商店
+    url: https://openxlab.org.cn/apps
+  - title: ChatGPT
+    url: https://chat.openai.com
   - title: 万事百科
     url: https://zh.wikihow.com
   - title: 在线工具箱
@@ -47,9 +51,8 @@ navigation_urls:
     url: http://rutracker.org
   - title: 小霸王在线
     url: https://www.yikm.net
-  - title: 客户关系管理
-    url: https://gqi3ikebxa.feishu.cn/base/bascnYJioQZG7JKCjoRzTS9gJ4d
 
+    
 ################
 ## 网址导航数据
 ################
