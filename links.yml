@@ -86,11 +86,6 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">生产力</text></svg>
         url: https://marp.app/
         description: Markdown生成PPT开源项目Marp
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">待添加</text></svg>
-        url: https://github.com/zh3389/nav/issues
-        description: 快来提交你的网站吧
-      
         
   - category: ChatTools
     icon: linecons-doc
@@ -544,10 +539,6 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">飞书</text></svg>
         url: https://www.feishu.cn/
         description: 飞书协同文档
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">待添加</text></svg>
-        url: https://github.com/zh3389/nav/issues
-        description: 快来提交你的网站吧
         
   - category: 待添加
     icon: linecons-doc
