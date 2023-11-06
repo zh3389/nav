@@ -536,7 +536,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">OA</text></svg>
         url: https://117.176.129.103:9081
         description: OA网页版
-
+      - title: mail
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">邮箱</text></svg>
+        url: https://mailh.qiye.163.com/
+        description: 企业邮箱
       - title: 飞书
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">飞书</text></svg>
         url: https://www.feishu.cn/
