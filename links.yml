@@ -242,6 +242,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">画图</text></svg>
         url: https://www.draw.io
         description: 将您的存储空间带到我们的在线工具中，或使用桌面应用程序最大限度地保护隐私。
+      - title: tinkercad
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">3D建模</text></svg>
+        url: https://www.tinkercad.com/
+        description: Tinkercad是一款用于三维设计、电子电路设计和编码的免费网页应用程序。
       - title: Squoosh
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">压缩</text></svg>
         url: https://squoosh.app
