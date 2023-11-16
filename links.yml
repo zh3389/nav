@@ -242,6 +242,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">画图</text></svg>
         url: https://www.draw.io
         description: 将您的存储空间带到我们的在线工具中，或使用桌面应用程序最大限度地保护隐私。
+      - title: excalidraw
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">草图</text></svg>
+        url: https://excalidraw.com/
+        description: 虚拟白板，用于绘制手绘图表等草图。
       - title: tinkercad
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">3D建模</text></svg>
         url: https://www.tinkercad.com/
