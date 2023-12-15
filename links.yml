@@ -110,26 +110,6 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
         url: https://www.anthropic.ai/
         description: Claude
-      - title: OpenAssistant
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://open-assistant.io/zh/chat
-        description: OpenAssistant
-      - title: ColossalAI
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://chat.colossalai.org/
-        description: ColossalAI
-      - title: AI帮个忙 aitools
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">文字</text></svg>
-        url: https://aitools.run/
-        description: AI文字工具
-      - title: PPT AI tome
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PPT</text></svg>
-        url: https://tome.app/
-        description: 一键生成PPT
-      - title: PPT AI gamma
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PPT</text></svg>
-        url: https://gamma.app/
-        description: 一键生成PPT
       - title: ChatGPT指令大全
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">指令</text></svg>
         url: https://www.explainthis.io/zh-hans/chatgpt
@@ -426,10 +406,6 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">壁纸</text></svg>
         url: https://wallhaven.cc/
         description: 电脑壁纸网站
-      - title: 写真
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">壁纸</text></svg>
-        url: https://www.jpmn5.cc
-        description: 电脑壁纸网站
       - title: fanbox
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">插画</text></svg>
         url: https://www.fanbox.cc
@@ -475,14 +451,6 @@ categories:
     hide_menu: false
     icon: linecons-star
     links:      
-      - title: 大力盘
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">查找</text></svg>
-        url: https://www.dalipan.com
-        description: 网盘资源搜索
-      - title: 在线高清视频
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">视频</text></svg>
-        url: http://www.8kvod.com
-        description: 影视之光
       - title: 免费字体
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">字体</text></svg>
         url: https://www.wfonts.com
@@ -503,10 +471,6 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">CG</text></svg>
         url: https://www.element3ds.com
         description: 微元素,游戏资源下载,游戏原画,手机游戏资源,游戏开发资源
-      - title: 帝之冰魂
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">动漫</text></svg>
-        url: https://www.dzbhdm.net
-        description: 帝之冰魂动漫资源小站官网
       - title: GBT乐赏游戏
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">游戏</text></svg>
         url: http://www.gbtgame.ysepan.com
