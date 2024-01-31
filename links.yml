@@ -270,6 +270,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">抠图</text></svg>
         url: https://www.remove.bg/zh
         description: 图片背景消除100% 全自动且免费
+      - title: ailabtools
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">ai</text></svg>
+        url: https://www.ailabtools.com/zh-cn
+        description: ailab工具箱
       - title: 临时邮箱
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">匿名</text></svg>
         url: https://www.linshiyouxiang.net/
