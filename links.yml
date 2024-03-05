@@ -90,26 +90,18 @@ categories:
   - category: ChatTools
     icon: linecons-doc
     links:
-      - title: 聚合Chat
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Poe</text></svg>
-        url: https://poe.com/
-        description: 感谢您使用 Poe！我们正在构建一个平台，让人们可以提出问题、获得即时答案并与 AI 进行来回对话。
       - title: OpenAI ChatGPT
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://ai.com
+        url: https://chat.openai.com/
         description: ChatGPT
-      - title: Google Bard
+      - title: Google Gemini
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://bard.google.com/
-        description: Google ChatGPT Bard
-      - title: 新bing
+        url: https://gemini.google.com/
+        description: Google Gemini
+      - title: douyin Coze
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx
-        description: new bing
-      - title: Claude
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://www.anthropic.ai/
-        description: Claude
+        url: https://www.coze.com/
+        description: 轻松创建 AI 机器人
       - title: ChatGPT指令大全
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">指令</text></svg>
         url: https://www.explainthis.io/zh-hans/chatgpt
@@ -118,38 +110,14 @@ categories:
   - category: 实用AI工具
     icon: linecons-doc
     links:
-      - title: AI导航 allthingsai
+      - title: openxlab
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
-        url: https://allthingsai.com/
-        description: AI导航
-      - title: AI导航 ai.tboxn
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
-        url: https://ai.tboxn.com/
-        description: AI导航
-      - title: AI导航 ainavpro
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
-        url: https://www.ainavpro.com/
-        description: AI导航
-      - title: AI导航 aigc
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
-        url: https://aigc.cn/
-        description: AI导航
-      - title: 一起用AI 17yongai
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">导航</text></svg>
-        url: https://17yongai.com/
-        description: AI导航
-      - title: AI工具更新 futurepedia
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">推荐</text></svg>
-        url: https://www.futurepedia.io/
-        description: 最大的 AI 工具目录，每日更新
-      - title: AI工具更新 futuretools
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">推荐</text></svg>
-        url: https://www.futuretools.io/
-        description: 最新的AI工具推荐
-      - title: 美区信用卡
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">信用卡</text></svg>
-        url: https://nobepay.com/
-        description: 美区信用卡
+        url: https://openxlab.org.cn/apps
+        description: AI应用中心
+      - title: ailabtools
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">ai</text></svg>
+        url: https://www.ailabtools.com/zh-cn
+        description: ailab工具箱
       - title: ANIMATED DRAWINGS
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">动画</text></svg>
         url: https://sketch.metademolab.com
@@ -210,10 +178,6 @@ categories:
   - category: 实用工具网站
     icon: linecons-star
     links:
-      - title: PDF工具箱
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PS</text></svg>
-        url: https://tools.pdf24.org/zh
-        description: 精心裁剪的针对特定问题的工具。下面是所有的PDF工具。
       - title: 在线Photoshop
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PS</text></svg>
         url: https://www.photopea.com
@@ -226,54 +190,50 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">草图</text></svg>
         url: https://excalidraw.com/
         description: 虚拟白板，用于绘制手绘图表等草图。
-      - title: tinkercad
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">3D建模</text></svg>
-        url: https://www.tinkercad.com/
-        description: Tinkercad是一款用于三维设计、电子电路设计和编码的免费网页应用程序。
-      - title: Squoosh
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">压缩</text></svg>
-        url: https://squoosh.app
-        description: 在浏览器中用不同的编解码器压缩和比较图像(Google出品)
-      - title: magiceraser
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">抠图</text></svg>
-        url: https://www.magiceraser.io
-        description: 在几秒钟内删除不需要的东西  上传，标记您需要删除的位置，下载  免费使用。无需注册！
-      - title: convertio
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">转换</text></svg>
-        url: https://convertio.co/zh
-        description: 文件转换器 将您的文件转换成任意格式
-      - title: vectormagic
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">像素</text></svg>
-        url: https://zh.vectormagic.com
-        description: 轻轻松松 把 JPG、PNG、GIF 文件 转换成 PDF、SVG、EPS 矢量图像 通过世界上最佳全彩自动描摹器，迅速地使您的艺术品做好打印、修饰、剪切等操作的准备！
-      - title: TinyPNG
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">压缩</text></svg>
-        url: https://tinypng.com
-        description: 智能PNG和JPEG压缩，以质量和文件大小的完美平衡来优化您的图像
-      - title: icomoon
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">ico</text></svg>
-        url: https://icomoon.io/app
-        description: 在线icon编辑
       - title: Canva
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">画图</text></svg>
         url: https://www.canva.cn
         description: 在线做图软件
-      - title: 早标网
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">换词</text></svg>
-        url: https://www.zaobiao.net
-        description: 早标网，降重不限字数！ 今日论文今日改，莫待明日空着急，不要让改论文阻碍毕业的步伐。
-      - title: 句子控
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">写作</text></svg>
-        url: https://www.juzikong.com
-        description: 收集与分享你喜欢的句子
+      - title: Squoosh
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">压缩</text></svg>
+        url: https://squoosh.app
+        description: 在浏览器中用不同的编解码器压缩和比较图像(Google出品)
+      - title: TinyPNG
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">压缩</text></svg>
+        url: https://tinypng.com
+        description: 智能PNG和JPEG压缩，以质量和文件大小的完美平衡来优化您的图像
+      - title: CodeFormer
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">修复</text></svg>
+        url: https://huggingface.co/spaces/sczhou/CodeFormer
+        description: 图像修复，老照片修复，强大的人脸恢复和增强网络
       - title: remove.bg
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">抠图</text></svg>
         url: https://www.remove.bg/zh
         description: 图片背景消除100% 全自动且免费
-      - title: ailabtools
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">ai</text></svg>
-        url: https://www.ailabtools.com/zh-cn
-        description: ailab工具箱
+      - title: magiceraser
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">抠图</text></svg>
+        url: https://www.magiceraser.io
+        description: 在几秒钟内删除不需要的东西  上传，标记您需要删除的位置，下载  免费使用。无需注册！
+      - title: vectormagic
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">像素</text></svg>
+        url: https://zh.vectormagic.com
+        description: 轻轻松松 把 JPG、PNG、GIF 文件 转换成 PDF、SVG、EPS 矢量图像 通过世界上最佳全彩自动描摹器，迅速地使您的艺术品做好打印、修饰、剪切等操作的准备！
+      - title: tinkercad
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">3D建模</text></svg>
+        url: https://www.tinkercad.com/
+        description: Tinkercad是一款用于三维设计、电子电路设计和编码的免费网页应用程序。
+      - title: PDF工具箱
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PS</text></svg>
+        url: https://tools.pdf24.org/zh
+        description: 精心裁剪的针对特定问题的工具。下面是所有的PDF工具。
+      - title: convertio
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">转换</text></svg>
+        url: https://convertio.co/zh
+        description: 文件转换器 将您的文件转换成任意格式
+      - title: icomoon
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">ico</text></svg>
+        url: https://icomoon.io/app
+        description: 在线icon编辑
       - title: 临时邮箱
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">匿名</text></svg>
         url: https://www.linshiyouxiang.net/
@@ -282,10 +242,22 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">匿名</text></svg>
         url: https://jiemahao.com
         description: 在线虚拟电话号码
+      - title: 美区信用卡
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">信用卡</text></svg>
+        url: https://nobepay.com/
+        description: 美区信用卡
       - title: 收费接码平台
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">接码</text></svg>
         url: https://sms-activate.org/cn
         description: 便宜的虚拟电话号码
+      - title: 早标网
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">换词</text></svg>
+        url: https://www.zaobiao.net
+        description: 早标网，降重不限字数！ 今日论文今日改，莫待明日空着急，不要让改论文阻碍毕业的步伐。
+      - title: 句子控
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">写作</text></svg>
+        url: https://www.juzikong.com
+        description: 收集与分享你喜欢的句子
 
   - category: 商用图库视频
     icon: linecons-doc
