@@ -158,6 +158,11 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">写作</text></svg>
         url: https://wenxin.baidu.com/ernie3
         description: giiso写作机器人
+      - title: face-to-sticker
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">生成</text></svg>
+        url: https://replicate.com/fofr/face-to-sticker
+        description: 冰箱贴制作
+        
       - title: giiso
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">写作</text></svg>
         url: https://www.giiso.com
