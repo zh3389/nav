@@ -186,6 +186,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">歌词</text></svg>
         url: https://wenxin.baidu.com/wenxin/pc/lyrics
         description: 歌词生成 10秒创作一首歌
+      - title: recraft
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">绘图</text></svg>
+        url: https://app.recraft.ai/
+        description: AI局部绘图
         
   - category: 实用工具网站
     icon: linecons-star
