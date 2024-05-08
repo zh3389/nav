@@ -105,9 +105,13 @@ categories:
         url: https://www.coze.com/
         description: 轻松创建 AI 机器人
       - title: ChatGPT指令大全
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">指令</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
         url: https://www.explainthis.io/zh-hans/chatgpt
         description: ChatGPT使用指令
+      - title: 开发人员的搜索引擎
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
+        url: https://www.phind.com/
+        description: 从想法到产品
 
   - category: 实用AI工具
     icon: linecons-doc
