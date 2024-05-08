@@ -164,7 +164,7 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">写作</text></svg>
         url: https://www.giiso.com
         description: ERNIE3.0文本理解与创作
-      - title:seamless-expressive
+      - title: seamless-expressive
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">视频</text></svg>
         url: https://replicate.com/adirik/seamless-expressive
         description: 无缝表达 保留原始声音风格和韵律的多语言语音翻译
