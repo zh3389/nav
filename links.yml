@@ -38,11 +38,13 @@ navigation_urls:
   - title: 程序员做饭指南
     url: https://cook.aiurs.co
   - title: ChatGPT
-    url: https://chat.openai.com
+    url: https://chatgpt.com
   - title: 万事百科
     url: https://zh.wikihow.com
   - title: 在线工具箱
     url: https://tool.lu
+  - title: IT-tools
+    url: https://it-tools.tech
   - title: 编程速查表
     url: https://quickref.me
   - title: 资源下载
@@ -51,8 +53,6 @@ navigation_urls:
     url: http://rutracker.org
   - title: 小霸王在线
     url: https://www.yikm.net
-  - title: IT-tools
-    url: https://it-tools.tech
 
     
 ################
@@ -78,10 +78,6 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PPT</text></svg>
         url: http://www.hippter.com/
         description: PPT资源导航
-      - title: appmaster
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">生产力</text></svg>
-        url: https://appmaster.io/zh
-        description: 无代码开发 学习尝试 商机
       - title: Marp
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">生产力</text></svg>
         url: https://marp.app/
@@ -98,18 +94,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
         url: https://arena.lmsys.org/
         description: Chat聚合
-      - title: Google Gemini
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://gemini.google.com/
-        description: Google Gemini
       - title: douyin Coze
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
         url: https://www.coze.com/
         description: 轻松创建 AI 机器人
-      - title: ChatGPT指令大全
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://www.explainthis.io/zh-hans/chatgpt
-        description: ChatGPT使用指令
       - title: 开发人员的搜索引擎
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
         url: https://www.phind.com/
@@ -158,26 +146,14 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">生成</text></svg>
         url: https://yige.baidu.com
         description: 文心一格 百度 内容图像生成
-      - title: AI智能写作
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">写作</text></svg>
-        url: https://wenxin.baidu.com/ernie3
-        description: giiso写作机器人
       - title: face-to-sticker
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">生成</text></svg>
         url: https://replicate.com/fofr/face-to-sticker
         description: 冰箱贴制作
-      - title: giiso
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">写作</text></svg>
-        url: https://www.giiso.com
-        description: ERNIE3.0文本理解与创作
       - title: seamless-expressive
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">视频</text></svg>
         url: https://replicate.com/adirik/seamless-expressive
         description: 无缝表达 保留原始声音风格和韵律的多语言语音翻译
-      - title: 易撰
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">写作</text></svg>
-        url: https://www.yizhuan5.com
-        description: 让创作更高效
       - title: 写作猫
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">写作</text></svg>
         url: https://xiezuocat.com
