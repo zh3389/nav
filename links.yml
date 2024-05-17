@@ -390,7 +390,7 @@ categories:
   - category: 开发资源
     icon: linecons-doc
     links:
-      - title: Railway
+      - title: htmlrev
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">模板</text></svg>
         url: https://htmlrev.com
         description: 1500多个免费HTML模板，适用于网站、登陆页面、博客、投资组合、电子商务和仪表板
