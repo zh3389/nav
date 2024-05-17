@@ -391,7 +391,11 @@ categories:
     icon: linecons-doc
     links:
       - title: Railway
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">待添加</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">模板</text></svg>
+        url: https://htmlrev.com
+        description: 1500多个免费HTML模板，适用于网站、登陆页面、博客、投资组合、电子商务和仪表板
+      - title: Railway
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Serve</text></svg>
         url: https://railway.app/dashboard
         description: GitHub绑定免费服务器 5美元500小时/月
       - title: surge
@@ -399,11 +403,11 @@ categories:
         url: https://surge.sh
         description: 免费静态服务器
       - title: Googl Cloud
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">服务器</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Serve</text></svg>
         url: https://console.cloud.google.com/
         description: Google云服务器控制台
       - title: 腾讯云开发
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">云开发</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Serve</text></svg>
         url: https://console.cloud.tencent.com/
         description: 腾讯云开发
       - title: API资源库
