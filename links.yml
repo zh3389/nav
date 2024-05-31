@@ -410,6 +410,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Serve</text></svg>
         url: https://console.cloud.tencent.com/
         description: 腾讯云开发
+      - title: 讯飞开放平台
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">API</text></svg>
+        url: https://www.xfyun.cn/
+        description: 讯飞开放平台
       - title: API资源库
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">API</text></svg>
         url: https://rapidapi.com/hub/
