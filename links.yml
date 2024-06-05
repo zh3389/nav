@@ -426,6 +426,59 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">工具</text></svg>
         url: https://www.cursor.so/
         description: 自动写代码
+
+  - category: 远程工作平台
+    icon: linecons-doc
+    links:
+      - title: B0SS直聘
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">招聘</text></svg>
+        url: https://www.zhipin.com
+        description: 在搜索框输入“远程”、“居家办公” 筛选。目前也有很多小众职业、新兴职业等招人信息，相对比较全面。
+    links:
+      - title: 电鸭
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">招聘</text></svg>
+        url: https://eleduck.com
+        description: 国内最大的远程办公平台之一。倡导“只工作，不上班”的生活方式，努力推动多样化工作方式在国内的渐进式发展。
+    links:
+      - title: upwork
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">招聘</text></svg>
+        url: https://www.upwork.com
+        description: 最卷也是压价比较狠的平台，但是种类很多，有些工作甚至用AI就可以完成。
+    links:
+      - title: linkedin
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">招聘</text></svg>
+        url: https://www.linkedin.com
+        description: 领英是一个全球性的职场社交平台，可以在领英上创建个人简历，加入行业群组，与同行交流。在领英上，可以找到许多远程工作的机会，还可以直接与招聘方沟通。
+    links:
+      - title: remoteok
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">招聘</text></svg>
+        url: https://remoteok.com
+        description: 适合做时间短又不费力的活。
+    links:
+      - title: FlexJobs
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">招聘</text></svg>
+        url: https://www.flexjobs.com
+        description: 适用于自由职业者、远程工作、兼职，没有广告，真实性受到监管。
+    links:
+      - title: Angle List
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">招聘</text></svg>
+        url: https://www.angellist.com
+        description: 很多初创公司会在上面找远程工作者，工资透明。
+    links:
+      - title: HKese
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">招聘</text></svg>
+        url: https://hkese.net
+        description: 香港自由工作求职平台，满足新时代的求职征才需要，推动未来工作模式。HKESE 平台支持各类型全职、兼职、自由工作、短期及临时工作。
+    links:
+      - title: 远程.work
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">招聘</text></svg>
+        url: https://yuancheng.work/
+        description: 远程.work 是远程工作招聘网站，入驻企业500多家，远程职位700多个，注册用户近4万。
+    links:
+      - title: 云队友
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">招聘</text></svg>
+        url: https://www.duiyou360.com
+        description: 帮助有远程工作，兼职工作人才雇佣需求的企业寻找远程工作人才。为自由职业者等远程工作人才提供技术开发、设计、运营等远程工作机会。
         
   - category: 其它资源
     hide_menu: false
