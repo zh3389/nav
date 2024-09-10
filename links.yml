@@ -518,8 +518,117 @@ categories:
         description: 好玩的硬件交流社区
       - title: 不用手机号的邮箱
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">邮箱</text></svg>
-        url: https://mail.proton.me/
+        url: https://mail.proton.me
         description: 国外不用手机号的邮箱注册
+          
+  - category: 知识科普
+    hide_menu: true
+    icon: linecons-doc
+    links:
+      - title: 名胜古迹
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">遗迹</text></svg>
+        url: https://www.cyark.org/projects
+        description: 用专业的三维激光扫描技术数字化重现世界上最久远、最著名的古迹
+      - title: 全景故宫
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">遗迹</text></svg>
+        url: https://pano.dpm.org.cn
+        description: 线上体验游览故宫，360°查看各个宫殿，有文字介绍
+      - title: 数字敦煌
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">遗迹</text></svg>
+        url: https://www.e-dunhuang.com
+        description: 在线浏览敦煌，可浏览经典洞窟、经典壁画
+      - title: 中国纪录片网
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">纪录片</text></svg>
+        url: https://www.docuchina.cn
+        description: 国家级的纪录片资源，央视出品
+      - title: 千亿像素看中国
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">VR</text></svg>
+        url: http://bigpixel.cn/zh-CN.html
+        description: 可浏览千亿像素的全景图片，观看一个城市的面貌    
+      - title: 指尖上
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">VR</text></svg>
+        url: https://www.zhijianshang.com
+        description: 海量全面精美的VR全景旅游景点介绍，只需动动指尖就能通过虚拟现实深入景区内部，体验各地的美景风光。
+      - title: 随机谷歌街景
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">VR</text></svg>
+        url: https://randomstreetview.com
+        description: 这个网站随机展示谷歌街景的照片，世界各地都有
+      - title: 全球贸易数据分析
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">数据</text></svg>
+        url: http://globe.cid.harvard.edu
+        description: 这个网站可以看到全球每一个国家在贸易方面的数据
+      - title: 实时地球
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">星球</text></svg>
+        url: https://zoom.earth
+        description: 实时图像每 10 分钟更新一次，提供风暴,天气预报、降水、火警等数据
+      - title: 100,000 Stars
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">星球</text></svg>
+        url: https://stars.chromeexperiments.com
+        description: 璀璨星河一触即达，宇宙星系在线观赏(来自Google 实验室)
+      - title: 10 万亿像素的夜空
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">星球</text></svg>
+        url: https://viewer.legacysurvey.org
+        description: 浏览一张 10 万亿像素的图片，包含超过十亿个星系，覆盖整个天空的三分之一。
+      - title: 深海
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">海洋</text></svg>
+        url: https://neal.fun/deep-sea
+        description: 海洋不同深度都有什么生物
+      - title: The Sea We Breathe
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">海洋</text></svg>
+        url: https://www.bluemarinefoundation.com/the-sea-we-breathe
+        description: 带你进入海底世界邀游，互动式的体验
+      - title: Ocearch
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">海洋</text></svg>
+        url: https://www.ocearch.org/tracker
+        description: 追踪大白鲨、虎鲸等海洋动物的实时位置
+      - title: 天际网络摄像头
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">视频</text></svg>
+        url: https://www.skylinewebcams.com
+        description: 观看世界各地景区的实时摄像头画面
+      - title: Webcamtaxi
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">视频</text></svg>
+        url: https://www.webcamtaxi.com/en
+        description: 有很多24小时的摄像头直播频道，可以看到世界各地的实时状况。
+      - title: 护照博物馆
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">科普</text></svg>
+        url: https://www.passportindex.org
+        description: 这个网站集合了世界各地护照样式 还有办理程序 办理难易程度 等等
+      - title: World Flags
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">科普</text></svg>
+        url: https://world-flags.org
+        description: 一个介绍世界各国国旗、含义和起源、国旗的起源和琐事的国旗武士媒体组合项目
+      - title: Conserve The Sound
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">科普</text></svg>
+        url: https://www.conservethesound.de
+        description: 老物件的声音博物馆，你可以听到打字机:手摇咖啡研磨机等物品的声音
+      - title: 核弹威力
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">科普</text></svg>
+        url: https://nuclearsecrecy.com/nukemap
+        description: 选择某个核弹查看爆炸影响的范围大小
+      - title: Exploratorium
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">科普</text></svg>
+        url: https://www.exploratorium.edu/explore/solar-system/age
+        description: 科普网站，看看你在其它星球的岁数   
+      - title: Go Nomad
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">择居</text></svg>
+        url: https://nomadlist.com
+        description: 这个网站是用来给游民们寻找适合自己的城市做参考，根据各种权威机构评分
+      - title: Dollar Street
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">科普</text></svg>
+        url: https://www.gapminder.org/dollar-street
+        description: 按照收入展示各个国家中人们的生活
+      - title: 世界建筑名录
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">设计</text></svg>
+        url: https://www.worldbuildingsdirectory.com
+        description: 浏览来自世界各地的最具创新性的建筑
+      - title: Arch Daily
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">设计</text></svg>
+        url: https://www.archdaily.cn/cn
+        description: 非常多设计奇特的建筑
+      - title: 乡音苑
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">故事</text></svg>
+        url: https://phonemica.net
+        description: 收集来自全国各地的网友上传的方言故事网站提供各种字幕不怕看不懂
 
   - category: 工作
     icon: linecons-doc
