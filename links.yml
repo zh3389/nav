@@ -62,6 +62,7 @@ navigation_urls:
 ################
 categories: 
   - category: 综合导航网站
+    hide_menu: false
     icon: linecons-doc
     links:
       - title: 程序员导航
@@ -86,6 +87,7 @@ categories:
         description: Markdown生成PPT开源项目Marp
         
   - category: ChatTools
+    hide_menu: false
     icon: linecons-doc
     links:
       - title: OpenAI ChatGPT
@@ -106,6 +108,7 @@ categories:
         description: 从想法到产品
 
   - category: 实用AI工具
+    hide_menu: false
     icon: linecons-doc
     links:
       - title: openxlab
@@ -174,6 +177,7 @@ categories:
         description: AI局部绘图
         
   - category: 实用工具网站
+    hide_menu: false
     icon: linecons-star
     links:
       - title: 在线Photoshop
@@ -262,7 +266,7 @@ categories:
         description: 收集与分享你喜欢的句子
 
   - category: 商用图库视频
-    hide_menu: false
+    hide_menu: true
     icon: linecons-doc
     links:
       - title: pixabay
@@ -323,7 +327,7 @@ categories:
         description: 开发响应式 Web 应用程序的速度提高 5 倍！
 
   - category: 商用背景音乐
-    hide_menu: false
+    hide_menu: true
     icon: linecons-doc
     links:
       - title: 淘声toSound
@@ -364,6 +368,7 @@ categories:
         description: 100AUDIO音乐授权 有保障的版权音乐
         
   - category: 数据可视化
+    hide_menu: false
     icon: linecons-doc
     links:      
       - title: 在线图表绘制
@@ -376,6 +381,7 @@ categories:
         description: 全新的三维数据演示工具，引领数据内容创作与演示的全新升级
 
   - category: 图片资源
+    hide_menu: true
     icon: linecons-doc
     links:
       - title: 元气壁纸
@@ -396,6 +402,7 @@ categories:
         description: 电脑壁纸网站 插画
 
   - category: 开发资源
+    hide_menu: false
     icon: linecons-doc
     links:
       - title: htmlrev
@@ -436,7 +443,7 @@ categories:
         description: 自动写代码
 
   - category: 远程工作平台
-    hide_menu: false
+    hide_menu: true
     icon: linecons-doc
     links:
       - title: B0SS直聘
@@ -631,6 +638,7 @@ categories:
         description: 收集来自全国各地的网友上传的方言故事网站提供各种字幕不怕看不懂
 
   - category: 工作
+    hide_menu: true
     icon: linecons-doc
     links:
       - title: Jira PRD
