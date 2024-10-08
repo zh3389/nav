@@ -662,6 +662,19 @@ categories:
         url: https://www.feishu.cn/
         description: 飞书协同文档
         
+  - category: 机场
+    hide_menu: true
+    icon: linecons-doc
+    links:
+      - title: 万达云
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">vpn</text></svg>
+        url: https://app.wdycenter.com
+        description: 万达云 全球网络加速
+      - title: MIMEMI
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">vpn</text></svg>
+        url: https://mimemi.org
+        description: 专业的云加速服务
+        
   - category: 待添加
     hide_menu: true
     icon: linecons-doc
