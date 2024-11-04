@@ -443,7 +443,7 @@ categories:
         description: 自动写代码
 
   - category: 远程工作平台
-    hide_menu: true
+    hide_menu: false
     icon: linecons-doc
     links:
       - title: B0SS直聘
@@ -486,6 +486,12 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">招聘</text></svg>
         url: https://www.duiyou360.com
         description: 帮助有远程工作，兼职工作人才雇佣需求的企业寻找远程工作人才。为自由职业者等远程工作人才提供技术开发、设计、运营等远程工作机会。
+      - title: awesome-remote-job
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">招聘</text></svg>
+        url: https://github.com/lukasz-madon/awesome-remote-job
+        description: 一份精选的超棒远程工作资源清单。
+
+
         
   - category: 其它资源
     hide_menu: true
