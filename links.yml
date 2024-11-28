@@ -65,6 +65,10 @@ categories:
     hide_menu: false
     icon: linecons-doc
     links:
+      - title: OpenAlternative
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">综合</text></svg>
+        url: https://openalternative.co/
+        description: 一款专为寻找付费软件的开源替代方案的项目！
       - title: 程序员导航
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">综合</text></svg>
         url: http://www.cxy521.com/
