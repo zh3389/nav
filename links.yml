@@ -127,6 +127,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">动画</text></svg>
         url: https://sketch.metademolab.com
         description: 通过动画角色四处移动，让孩子们的图画栩栩如生！
+      - title: photoshot
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">头像</text></svg>
+        url: https://photoshot.app
+        description: 您的AI头像生成器
       - title: discoart
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">AI</text></svg>
         url: https://github.com/jina-ai/discoart
