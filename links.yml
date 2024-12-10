@@ -651,6 +651,15 @@ categories:
         url: https://phonemica.net
         description: 收集来自全国各地的网友上传的方言故事网站提供各种字幕不怕看不懂
 
+  - category: 股市
+    hide_menu: true
+    icon: linecons-doc
+    links:
+      - title: 大盘云图
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">A股</text></svg>
+        url: https://dapanyuntu.com
+        description: 大盘云图，板块、公司、涨跌幅
+
   - category: 工作
     hide_menu: true
     icon: linecons-doc
