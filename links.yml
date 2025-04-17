@@ -33,18 +33,12 @@ link_submission_url: https://github.com/zh3389/nav/blob/main/links.yml
 ## 导航栏
 ################
 navigation_urls:
-  - title: AI在线商店
-    url: https://openxlab.org.cn/apps
   - title: 程序员做饭指南
     url: https://cook.aiurs.co
-  - title: ChatGPT
-    url: https://chatgpt.com
   - title: 万事百科
     url: https://zh.wikihow.com
   - title: 在线工具箱
     url: https://tool.lu
-  - title: IT-tools
-    url: https://it-tools.tech
   - title: 编程速查表
     url: https://quickref.me
   - title: 资源下载
