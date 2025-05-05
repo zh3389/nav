@@ -88,14 +88,14 @@ categories:
     hide_menu: false
     icon: linecons-doc
     links:
+      - title: DeepSeek
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
+        url: https://chat.openai.com/
+        description: DeepSeek国家超算互联网免费
       - title: OpenAI ChatGPT
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
         url: https://chat.openai.com/
         description: ChatGPT
-      - title: Lmsys组织 Chat聚合
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://arena.lmsys.org/
-        description: Chat聚合
       - title: douyin Coze
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
         url: https://www.coze.com/
@@ -104,7 +104,7 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
         url: https://www.phind.com/
         description: 从想法到产品
-
+        
   - category: 实用AI工具
     hide_menu: false
     icon: linecons-doc
@@ -117,6 +117,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">ai</text></svg>
         url: https://www.ailabtools.com/zh-cn
         description: ailab工具箱
+      - title: Midjourney
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">ai</text></svg>
+        url: https://ai.mjv6.cc
+        description: Midjourney国内平替
       - title: ANIMATED DRAWINGS
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">动画</text></svg>
         url: https://sketch.metademolab.com
