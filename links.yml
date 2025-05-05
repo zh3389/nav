@@ -90,7 +90,7 @@ categories:
     links:
       - title: DeepSeek
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://chat.openai.com/
+        url: https://www.scnet.cn/ui/chatbot
         description: DeepSeek国家超算互联网免费
       - title: OpenAI ChatGPT
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
