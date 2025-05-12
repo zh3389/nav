@@ -666,6 +666,14 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Uni</text></svg>
         url: https://dev.dcloud.io/
         description: Uni开发者平台
+      - title: imooc
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">慕课</text></svg>
+        url: https://coding.imooc.com/
+        description: 慕课网
+      - title: snippet
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">片段</text></svg>
+        url: https://snippet-generator.app
+        description: HBuilder X 代码片段快捷生成
       - title: 飞书
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">飞书</text></svg>
         url: https://www.feishu.cn/
