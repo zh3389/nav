@@ -544,6 +544,10 @@ categories:
     hide_menu: true
     icon: linecons-doc
     links:
+      - title: 实验教材
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">教学</text></svg>
+        url: https://phet.colorado.edu
+        description: PhET交互式模拟教材
       - title: 名胜古迹
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">遗迹</text></svg>
         url: https://www.cyark.org/projects
