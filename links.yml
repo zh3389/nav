@@ -443,6 +443,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">API</text></svg>
         url: https://rapidapi.com/hub/
         description: 欢迎来到 RapidAPI 中心 发现并连接到数以千计的 API
+      - title: ProjectHunt
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">项目</text></svg>
+        url: https://projecthunt.me/
+        description: 发现和分享优秀项目
       - title: 域名dynadot
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">域名</text></svg>
         url: https://www.dynadot.com/
