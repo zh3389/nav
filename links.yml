@@ -100,10 +100,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
         url: https://www.coze.com/
         description: 轻松创建 AI 机器人
-      - title: 开发人员的搜索引擎
+      - title: phind
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
         url: https://www.phind.com/
-        description: 从想法到产品
+        description: 从想法到产品，开发人员的搜索引擎
         
   - category: 实用AI工具
     hide_menu: false
@@ -179,12 +179,16 @@ categories:
         description: 歌词生成 10秒创作一首歌
       - title: recraft
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">绘图</text></svg>
-        url: https://app.recraft.ai/
+        url: https://app.recraft.ai
         description: AI局部绘图
       - title: Manus
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">AI</text></svg>
         url: https://manus.im/app
         description: Manus 是一款通用型 AI 助手，能将想法转化为行动：不止于思考，更注重成果。Manus 擅长处理工作与生活中的各类任务，在你安心休息的同时，一切都能妥善完成。
+      - title: Minimaxi
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">AI</text></svg>
+        url: https://minimaxi.com
+        description: 音乐生成模型
         
   - category: 实用工具网站
     hide_menu: false
@@ -274,6 +278,14 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">写作</text></svg>
         url: https://www.juzikong.com
         description: 收集与分享你喜欢的句子
+      - title: 微信公众号markdown
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">写作</text></svg>
+        url: https://md.doocs.org
+        description: 微信公众号排版工具
+      - title: 自动写代码
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">工具</text></svg>
+        url: https://www.cursor.so/
+        description: 自动写代码
 
   - category: 商用图库视频
     hide_menu: true
@@ -419,42 +431,50 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">模板</text></svg>
         url: https://htmlrev.com
         description: 1500多个免费HTML模板，适用于网站、登陆页面、博客、投资组合、电子商务和仪表板
-      - title: Railway
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Serve</text></svg>
-        url: https://railway.app/dashboard
-        description: GitHub绑定免费服务器 5美元500小时/月
+      - title: creative-tim
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">模板</text></svg>
+        url: https://www.creative-tim.com
+        description: 模板，适用于网站、登陆页面、博客、投资组合、电子商务和仪表板
       - title: surge
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Serve</text></svg>
         url: https://surge.sh
         description: 免费静态服务器
-      - title: Googl Cloud
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Serve</text></svg>
-        url: https://console.cloud.google.com/
-        description: Google云服务器控制台
+      - title: 深度维基
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">wiki</text></svg>
+        url: https://deepwiki.org
+        description: 解析 Github 存储库
       - title: 腾讯云开发
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Serve</text></svg>
         url: https://console.cloud.tencent.com/
         description: 腾讯云开发
+      - title: AutoDL
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">GPU</text></svg>
+        url: https://www.autodl.com
+        description: 云 GPU 资源服务商
       - title: 讯飞开放平台
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">API</text></svg>
         url: https://www.xfyun.cn/
         description: 讯飞开放平台
+      - title: Railway
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Serve</text></svg>
+        url: https://railway.app/dashboard
+        description: GitHub绑定免费服务器 5美元500小时/月
+      - title: Googl Cloud
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">Serve</text></svg>
+        url: https://console.cloud.google.com/
+        description: Google云服务器控制台
       - title: API资源库
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">API</text></svg>
         url: https://rapidapi.com/hub/
         description: 欢迎来到 RapidAPI 中心 发现并连接到数以千计的 API
+      - title: Github API资源库
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">API</text></svg>
+        url: https://github.com/public-apis/public-apis
+        description: 欢迎来到 GitHub API 中心 发现并连接到数以千计的 API
       - title: ProjectHunt
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">项目</text></svg>
         url: https://projecthunt.me/
         description: 发现和分享优秀项目
-      - title: 域名dynadot
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">域名</text></svg>
-        url: https://www.dynadot.com/
-        description: 寻找域名宝藏中的大优惠, 轻松地在我们的域名市场购买和出售域名。
-      - title: 自动写代码
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">工具</text></svg>
-        url: https://www.cursor.so/
-        description: 自动写代码
 
   - category: 远程工作平台
     hide_menu: false
@@ -504,9 +524,11 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">招聘</text></svg>
         url: https://github.com/lukasz-madon/awesome-remote-job
         description: 一份精选的超棒远程工作资源清单。
+      - title: GitHub工作内推
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">招聘</text></svg>
+        url: https://github.com/ruanyf/weekly/issues/7832
+        description: GitHub工作内推
 
-
-        
   - category: 其它资源
     hide_menu: true
     icon: linecons-star
