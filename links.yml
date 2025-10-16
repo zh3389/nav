@@ -471,6 +471,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">项目</text></svg>
         url: https://projecthunt.me/
         description: 发现和分享优秀项目
+      - title: nginxconfig.io
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">工具</text></svg>
+        url: https://do.co/nginxconfig
+        description: NGINX 配置生成器
 
   - category: 远程工作平台
     hide_menu: false
