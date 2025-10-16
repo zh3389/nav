@@ -117,6 +117,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">ai</text></svg>
         url: https://www.ailabtools.com/zh-cn
         description: ailab工具箱
+      - title: DeepSite
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">ai</text></svg>
+        url: https://deepsite.hf.co
+        description: AI落地页一键生成，网页生成，网页一键生成。
       - title: Midjourney
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">ai</text></svg>
         url: https://ai.mjv6.cc
