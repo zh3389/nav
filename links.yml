@@ -719,6 +719,18 @@ categories:
     hide_menu: true
     icon: linecons-doc
     links:
+      - title: 机场推荐
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">vpn</text></svg>
+        url: https://github.com/DiningFactory/panda-vpn-pro
+        description: 机场推荐
+      - title: 机场推荐2
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">vpn</text></svg>
+        url: https://github.com/hwanz/SSR-V2ray-Trojan
+        description: 机场推荐2
+      - title: 机场客户端clashVerge
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">vpn</text></svg>
+        url: https://github.com/clash-verge-rev/clash-verge-rev
+        description: 机场客户端clashVerge
       - title: 万达云
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">vpn</text></svg>
         url: https://app.wdycenter.com
@@ -727,6 +739,30 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">vpn</text></svg>
         url: https://mimemi.org
         description: 专业的云加速服务
+      - title: 农夫山泉
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">vpn</text></svg>
+        url: https://www.nfsq.us
+        description: 农夫山泉
+      - title: 良心云
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">vpn</text></svg>
+        url: https://xn--9kqz23b19z.com
+        description: 良心云
+      - title: 一分钱机场
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">vpn</text></svg>
+        url: https://xn--4gqx1hgtfdmt.com
+        description: 一分钱机场
+      - title: 赔钱机场
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">vpn</text></svg>
+        url: https://xn--mes358aby2apfg.com
+        description: 赔钱机场
+      - title: 兔兔云
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">vpn</text></svg>
+        url: https://www.tutuyun.uk
+        description: 兔兔云
+      - title: 狗狗加速
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">vpn</text></svg>
+        url: https://login.dg5.biz
+        description: 狗狗加速  
         
   - category: 待添加
     hide_menu: true
