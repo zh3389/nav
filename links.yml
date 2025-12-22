@@ -35,6 +35,8 @@ link_submission_url: https://github.com/zh3389/nav/blob/main/links.yml
 navigation_urls:
   - title: 万事百科
     url: https://zh.wikihow.com
+  - title: 免费修理手册
+    url: https://zh.ifixit.com
   - title: 互联网上最大的免费物品集合！
     url: https://fmhy.net
   - title: 资源下载
