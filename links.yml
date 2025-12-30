@@ -294,8 +294,12 @@ categories:
         description: 微信公众号排版工具
       - title: 自动写代码
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">工具</text></svg>
-        url: https://www.cursor.so/
+        url: https://www.cursor.so
         description: 自动写代码
+      - title: 立即移除付费墙
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">工具</text></svg>
+        url: https://paywallbuster.com
+        description: 立即移除付费墙
 
   - category: 商用图库视频
     hide_menu: true
