@@ -300,6 +300,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">工具</text></svg>
         url: https://paywallbuster.com
         description: 立即移除付费墙
+      - title: 纸由我PaperMe
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">工具</text></svg>
+        url: https://paperme.pixzens.com/zh
+        description: 一个打印纸模板的网站
 
   - category: 商用图库视频
     hide_menu: true
