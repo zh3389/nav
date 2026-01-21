@@ -208,6 +208,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">PS</text></svg>
         url: https://www.photopea.com
         description: 免费的在线图像编辑器，支持 PSD、 XCF、Sketch、XD、CDR 等格式 (Adobe Photoshop， GIMP， Sketch App， Adobe XD， CoreIDRAW)。
+      - title: lovart
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">AI</text></svg>
+        url: https://www.lovart.ai
+        description: Lovart 让设计更简单、懂你的设计代理，帮你搞定一切。
       - title: draw.io
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">画图</text></svg>
         url: https://www.draw.io
