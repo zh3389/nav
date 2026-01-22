@@ -220,6 +220,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">草图</text></svg>
         url: https://excalidraw.com/
         description: 虚拟白板，用于绘制手绘图表等草图。
+      - title: smart-excalidraw
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">草图</text></svg>
+        url: https://smart-excalidraw.aizhi.site/
+        description: AI 驱动的图表生成
       - title: 百度脑图
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">思维导图</text></svg>
         url: https://naotu.baidu.com
