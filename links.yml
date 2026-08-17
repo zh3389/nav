@@ -100,8 +100,20 @@ categories:
         description: DeepSeek国家超算互联网免费
       - title: OpenAI ChatGPT
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">程序</text></svg>
-        url: https://chat.openai.com/
+        url: https://chat.openai.com
         description: ChatGPT
+      - title: skillhub
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">技能</text></svg>
+        url: https://skillhub.cn
+        description: 装上这个 SkillHub ，解锁 AI 超能力 精选推荐，高速下载体验，轻松查找 11.5 万 个 AI Skills
+      - title: modelscope
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">模型</text></svg>
+        url: https://modelscope.cn
+        description: ModelScope（魔搭），由阿里通义实验室联合 CCF 开源发展委员会发起，是国内一站式 AI 模型开源社区与 MaaS（模型即服务）平台。
+      - title: HuggingFace
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">模型</text></svg>
+        url: https://huggingface.co
+        description: Hugging Face，2016 年成立于美国纽约，全球最大开源 AI 社区与模型平台，被称为 AI 界的 GitHub。
         
   - category: 实用AI工具
     hide_menu: false
