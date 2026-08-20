@@ -105,7 +105,11 @@ categories:
       - title: skillhub
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">技能</text></svg>
         url: https://skillhub.cn
-        description: 装上这个 SkillHub ，解锁 AI 超能力 精选推荐，高速下载体验，轻松查找 11.5 万 个 AI Skills
+        description: 装上这个SkillHub，解锁AI超能力精选推荐，高速下载体验，轻松查找11.5万个 AI Skills
+      - title: colaskill
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">技能</text></svg>
+        url: https://colaskill.com/zh
+        description: 精选真正有用的 Skill，让每个任务都有更好的解法。
       - title: modelscope
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">模型</text></svg>
         url: https://modelscope.cn
